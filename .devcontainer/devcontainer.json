@@ -14,7 +14,8 @@
 				"dbaeumer.vscode-eslint",
 				"ms-azuretools.vscode-docker",
 				"mhutchie.git-graph",
-				"JuanBlanco.solidity"
+				"JuanBlanco.solidity",
+				"steoates.autoimport"
 			]
 		}
 	},
